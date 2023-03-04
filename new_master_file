@@ -1,1 +1,6 @@
 hello
+def too():
+    pass
+
+def foo():
+    pass
